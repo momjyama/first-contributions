@@ -3926,4 +3926,5 @@ Michael Wong
 - [Nikhil Kumar Tyagi](https://github.com/nkroker)
 - [Rémi Thériault](https://github.com/RemPsyc)
 - [Julian Arvesu](https://github.com/jarvesu)
+- [Pranjal Sharma](https://github.com/momjyama)
 <!-- prettier-ignore-end -->
